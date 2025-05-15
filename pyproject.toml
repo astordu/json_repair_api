@@ -1,0 +1,11 @@
+[project]
+name = "json-repair-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "json-repair>=0.44.1",
+    "fastapi",
+    "uvicorn",
+]
