@@ -8,3 +8,7 @@
 本代码是将它暴露成api接口用于dify对接的代码.
 
 我是bili的up主:雷哥AI
+
+## 项目流程
+
+![image](https://github.com/user-attachments/assets/5f364be2-6bbe-4dff-b5a9-42e23b2ee993)
